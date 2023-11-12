@@ -24,4 +24,4 @@ console.log('Resto da divisão =', primeiroNome % segundoNome)
 console.log(3 + 7 * 3)
 
 // Biblioteca Math
-Math.
+Math.E
